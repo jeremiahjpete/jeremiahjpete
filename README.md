@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning 2d animation and mobile app development
 - 📫 How to reach me: 
 - email - jeremiahjpete@gmail.com
-- twitter: @JeremiahJPete
 
 <!---
 jjp2767/jjp2767 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
